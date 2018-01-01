@@ -1,7 +1,5 @@
 # Crypto Challenge Set 1
 
-Content:
-
    1. Convert hex to base64
    2. Fixed XOR
    3. Single-byte XOR cipher
